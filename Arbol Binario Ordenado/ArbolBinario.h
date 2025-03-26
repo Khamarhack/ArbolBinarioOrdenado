@@ -1,7 +1,7 @@
-/******************************************
-Fecha: 1 octubre 2024
+/*******************************************
+Fecha: 26 marzo 2025
 Autor: Santiago Camargo
-Tema: Taller Arboles
+Tema: Taller Árboles
 Estructuras de datos
 ******************************************/
 #ifndef ARBOLBINARIO_H
